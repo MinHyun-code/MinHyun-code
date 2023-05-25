@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=black&height=200&section=header&text=MinHyun-code&fontColor=FFFFFF&fontSize=60)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinHyun-code%2Fhit-counter&count_bg=%23CDCBC7&title_bg=%23030303&icon=&icon_color=%23000000&title=hits&edge_flat=false)
 
-<h3 align="center"><b>🌱 Tech Stack 🌱</b></h3>
+# 💪Skills
+### Platforms & Languages
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -24,31 +25,12 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-
-  
-<!--
-**MinHyun-code/MinHyun-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyun-code&layout=compact)](https://github.com/MinHyun-code/github-readme-stats)
- 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyun-code&layout=compact)](https://github.com/MinHyun-code/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinHyun-code&show_icons=true&theme=dark)
 
-  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riven3069@gmail.com)](mailto:riven3069@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:riven3069@naver.com)](mailto:riven3069@naver.com)
  
- ![footer](https://capsule-render.vercel.app/api?type=Waving&color=black&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=black&height=200&section=footer)
 
