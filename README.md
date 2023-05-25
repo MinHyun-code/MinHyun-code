@@ -42,3 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ ![footer](https://capsule-render.vercel.app/api?type=Waving&color=black&height=200&section=footer)
+
