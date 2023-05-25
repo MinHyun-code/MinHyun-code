@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=black&height=200&section=header&text=MinHyun-code&fontColor=FFFFFF&fontSize=60)
 
 <h3 align="center"><b>🌱 Tech Stack 🌱</b></h3>
 </br>
@@ -22,7 +23,11 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyun-code&layout=compact)](https://github.com/MinHyun-code/github-readme-stats)
+ 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinHyun-code&show_icons=true&theme=dark)
+  
 <!--
 **MinHyun-code/MinHyun-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
