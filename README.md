@@ -17,13 +17,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinHyun-code&show_icons=true&theme=radical)
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=scv12332)](https://solved.ac/scv12332)
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyun-code&layout=compact)](https://github.com/MinHyun-code/github-readme-stats) 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinHyun-code&show_icons=true&theme=radical)
 
 
 # :mailbox_with_mail: Contacts
