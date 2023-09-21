@@ -1,6 +1,11 @@
+![997CE43359E8C2C72C](https://github.com/MinHyun-code/MinHyun-code/assets/72852292/7834b117-1270-4ce1-a2e2-87c62521539a)
+
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinHyun-code%2Fhit-counter&count_bg=%23CDCBC7&title_bg=%23030303&icon=&icon_color=%23000000&title=hits&edge_flat=false)
 
-# 💪Skills
+# 💪Skills!
+
+
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
