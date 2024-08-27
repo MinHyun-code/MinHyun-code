@@ -24,6 +24,11 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
+![Github](https://img.shields.io/badge/Github-E34F26.svg?&style=for-the-badge&logo=Github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-E34F26.svg?&style=for-the-badge&logo=Gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-007396.svg?&style=for-the-badge&logo=Jira&logoColor=white)
+
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
 
